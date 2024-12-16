@@ -15,6 +15,6 @@ bevy_panorbit_camera = "0.19.3"
 
 [workspace.dependencies]
 bevy = "0.14.2"
-bevy_mod_openxr = { git = "https://github.com/awtterpip/bevy_oxr", rev = "302a455fb39d8e9fb3781c2f6afc4765c53d3b14"}
-bevy_mod_xr = { git = "https://github.com/awtterpip/bevy_oxr", rev = "302a455fb39d8e9fb3781c2f6afc4765c53d3b14" }
-bevy_xr_utils = { git = "https://github.com/awtterpip/bevy_oxr", rev = "302a455fb39d8e9fb3781c2f6afc4765c53d3b14" }
+bevy_mod_openxr = { git = "https://github.com/awtterpip/bevy_oxr.git", rev = "c0be012b9dcc6a501a87aff9b7eafb3d886d8c9e"}
+bevy_mod_xr = { git = "https://github.com/awtterpip/bevy_oxr.git", rev = "c0be012b9dcc6a501a87aff9b7eafb3d886d8c9e"}
+bevy_xr_utils = { git = "https://github.com/awtterpip/bevy_oxr.git", rev = "c0be012b9dcc6a501a87aff9b7eafb3d886d8c9e"}
